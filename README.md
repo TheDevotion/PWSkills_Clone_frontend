@@ -1,1 +1,1 @@
-# Tailwind_byHC
+# PWSkills website clone (frontend) using tailwindcss 
